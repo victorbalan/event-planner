@@ -1,0 +1,9 @@
+{
+  "firebase": "event-planner-app",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
